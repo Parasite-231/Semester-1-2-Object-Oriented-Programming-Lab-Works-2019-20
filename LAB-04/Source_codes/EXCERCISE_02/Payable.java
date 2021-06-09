@@ -1,0 +1,6 @@
+
+
+interface Payable {
+	double getPayment();
+	
+}
